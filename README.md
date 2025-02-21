@@ -1,6 +1,10 @@
-# Car_Rental_System
-It is a simple console-based car rental system designed using Java, designed to manage the fare process for cars, including renting and returning cars, as well as also Customers and rent details are also managed. This car provides basic functionality for rented services such as:
+🚗 Car Rental System
+Explore the world of car rentals with the Car Rental System, a Java-based console application that combines learning and simulation. 🌟
 
-Rent Car: Customers allow customers to rent cars available for a specified period.
-Returning cars: Customers can return rented cars, and the system updates the availability of the car.
-Price Calculation: The system calculates the price of rent based on the base price and duration of the car per day.
+Features
+🚀 Rent a Car: Experience the ease of renting cars through an interactive console. 🔁 Return a Car: Effortlessly return previously rented cars and update availability. 👥 Customer Management: Add new customers and maintain customer records. 🚗 Car Management: Manage cars, brands, models, and pricing details. 📝 Rental History: Keep track of rentals, customers, and rental durations.
+
+Future Roadmap 🛤️
+🤝 Support multiple customers renting the same car simultaneously. ⏰ Implement date-based pricing adjustments. 🎨 Develop a graphical user interface (GUI) for enhanced user experience.
+
+Feel the thrill of renting and returning cars while mastering OOP concepts. Dive into the Car Rental System and drive your learning forward! 🚗💨
